@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ConnectionScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/MainGameScene.unity
+    guid: 65afe69610f1c8e4cb2e8e54a819ff28
+  - enabled: 1
+    path: Assets/Scenes/AddTileScene.unity
+    guid: b8913d2a71532a14db66656363f1159a
+  - enabled: 1
+    path: Assets/Scenes/MovePlayerScene.unity
+    guid: 70643a8c05e460045ac1a384cf98195d
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 87ebe844e31cf194dadf45d2767e86c7
+  - enabled: 1
+    path: Assets/Scenes/ReadyScene.unity
+    guid: 8b87e23ad30d92644bf0dbbd26802d98
+  - enabled: 1
+    path: Assets/Scenes/Minigames/TimerScene.unity
+    guid: 47f5bbb1da8558e4795c572a6e1ab4d6
+  m_configObjects: {}
